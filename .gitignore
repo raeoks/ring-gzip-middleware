@@ -3,3 +3,7 @@ pom.xml
 lib
 classes
 .cake
+.idea
+*.iml
+.lein-failures
+target
